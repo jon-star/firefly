@@ -2,6 +2,8 @@ A modern web-app boilerplate with Create React App and Firebase. Focused on simp
 
 ### **Full documentation at [getfirefly.org](http://getfirefly.org)**
 
+In order to run on Windows you must enter commands into WSL Bash, the project is not compatible with Powershell. 
+
 ### **[Live Demo](https://demo.getfirefly.org)**
 
 ## Folders
